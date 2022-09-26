@@ -3096,6 +3096,52 @@ footer h4.h05::after {
   font-family: "montserrat-regular", sans-serif;
   font-size: 1.4rem;
 }
+.footer-bottom2 {
+ 
+  margin-top: 3rem;
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  background: white;
+  font-family: "montserrat-regular", sans-serif;
+  font-size: 1.4rem;
+}
+.para{
+  font-size:2.5rem;
+  margin-bottom: 1%;
+}
+.quote{
+  position: absolute;
+  left: 20px;
+  object-fit:contain;
+  height: 5%;
+  width: 5%;
+}
+.quote2{
+  position: absolute;
+  right: 20px;
+  object-fit:contain;
+  height: 5%;
+  width: 5%;
+}
+.corners {
+  position: relative;
+  text-align: center;
+  display:flex;
+  border-radius: 15px;
+  border: 2px solid black;
+  padding: 3rem;
+  width: 100rem;
+
+  align-items:center;
+  flex-direction:column;
+  justify-content:center;
+}
+.testimonial{
+  height:10vw;
+  width: 10vw;
+  border-radius: 50%;
+}
 .footer-bottom .copyright span {
   display: inline-block;
 }
