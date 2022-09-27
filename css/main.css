@@ -3096,6 +3096,7 @@ footer h4.h05::after {
   font-family: "montserrat-regular", sans-serif;
   font-size: 1.4rem;
 }
+
 .footer-bottom2 {
  
   margin-top: 3rem;
@@ -3142,6 +3143,7 @@ footer h4.h05::after {
   width: 10vw;
   border-radius: 50%;
 }
+
 .footer-bottom .copyright span {
   display: inline-block;
 }
